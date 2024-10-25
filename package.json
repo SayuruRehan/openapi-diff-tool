@@ -1,8 +1,8 @@
 {
   "name": "api-diff-viewer",
-  "version": "0.7.2",
-  "description": "React component to view the difference between two Json based API documents",
-  "author": "Damir Yusipov",
+  "version": "1.0.0",
+  "description": "View the difference between two Json based API documents",
+  "author": "Sayuru Bopitiya",
   "license": "MIT",
   "files": [
     "dist"
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/udamir/api-diff-viewer"
+    "url": "https://github.dev/SayuruRehan/openapi-diff-tool"
   },
   "keywords": [
     "react",
