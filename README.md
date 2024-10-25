@@ -10,6 +10,7 @@ yarn add api-diff-viewer
 
 # NPM
 npm install api-diff-viewer
+npm install storybook
 ```
 
 ## Development
@@ -23,5 +24,9 @@ yarn install
 ### Develop
 
 ```sh
+# Yarn
 yarn storybook
+
+# NPM
+npm run storybook
 ```
